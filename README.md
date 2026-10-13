@@ -1,6 +1,6 @@
-# Form & Story — Alex Styles Portfolio
+# Form & Story — Aarna Mishra Portfolio
 
-A graphic designer's portfolio for the UI/UX Design Principles assignment.
+A product designer's portfolio for the UI/UX Design Principles assignment.
 
 ## Preview
 Open `index.html` in a browser. No build step or dependencies are needed.
